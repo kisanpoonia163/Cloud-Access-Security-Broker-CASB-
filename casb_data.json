@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "admin@example.com",
+      "password": "$2b$12$9nkviEtJ2r7TXieQ9vjOieVHZB0UxYszGDbSe9wsi04UHoTkXRGUO",
+      "role": "admin"
+    }
+  ],
+  "policies": [],
+  "dlp": [],
+  "metrics": {
+    "allowed": 0,
+    "blocked": 0,
+    "alerts": 0,
+    "redacts": 0
+  }
+}
